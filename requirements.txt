@@ -4,3 +4,4 @@ langchain-google-genai
 langchain
 langchain-chroma
 langchain-community
+protobuf<=3.20.x
